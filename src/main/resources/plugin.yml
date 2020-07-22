@@ -1,0 +1,6 @@
+name: AnarchyHub
+main: eu.grayroot.anarchyhub.Main
+version: 1.0.0
+author: GrayRoot
+commands:
+  spawn:
